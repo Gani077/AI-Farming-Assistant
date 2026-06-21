@@ -120,24 +120,23 @@ AI-Farming-Assistant/
 ```
 
 ---
-
 ## 📸 Screenshots
 
 ### Login Page
 
-Add Screenshot
+![Login](screenshots/login.png)
 
 ### Dashboard
 
-Add Screenshot
+![Dashboard](screenshots/dashboard2.png)
 
 ### Climate Smart Assistant
 
-Add Screenshot
+![Assistant](screenshots/smart assistant.png)
 
 ### Marketplace
 
-Add Screenshot
+![Marketplace](screenshots/marketplace.png)
 
 ---
 
