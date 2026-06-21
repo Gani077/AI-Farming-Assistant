@@ -132,7 +132,7 @@ AI-Farming-Assistant/
 
 ### Climate Smart Assistant
 
-![Assistant](screenshots/smart assistant.png)
+![Assistant](screenshots/smart_assistant.png)
 
 ### Marketplace
 
